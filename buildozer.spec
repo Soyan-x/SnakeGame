@@ -15,7 +15,7 @@ fullscreen = 1
 
 android.api = 34
 android.minapi = 21
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 
 [buildozer]
 log_level = 2
